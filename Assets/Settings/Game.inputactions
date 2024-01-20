@@ -7,18 +7,18 @@
             "actions": [
                 {
                     "name": "EscapePress",
-                    "type": "Value",
+                    "type": "Button",
                     "id": "ca53ccd4-b4da-4a87-9c38-fe9188eaedfa",
-                    "expectedControlType": "Key",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": true
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
                 {
                     "name": "",
-                    "id": "d3138113-7bbe-4966-940f-adda3fa283d3",
+                    "id": "13556e78-a6b0-40c1-b81b-8904dc05a53c",
                     "path": "<Keyboard>/escape",
                     "interactions": "",
                     "processors": "",
