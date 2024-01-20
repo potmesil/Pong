@@ -1,0 +1,34 @@
+{
+    "name": "Game",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "b001cbaa-56f8-4f7e-8337-0f8a51824025",
+            "actions": [
+                {
+                    "name": "EscapePress",
+                    "type": "Value",
+                    "id": "ca53ccd4-b4da-4a87-9c38-fe9188eaedfa",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d3138113-7bbe-4966-940f-adda3fa283d3",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EscapePress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
